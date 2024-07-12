@@ -20,7 +20,7 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine avant 
 ### 1. Cloner le dépôt
 
 ```sh
-git clone https://github.com/votre-utilisateur/immo-it.git
+git clone [https://github.com/votre-utilisateur/immo-it.git](https://github.com/liam237/Immo-IT.git)
 cd immo-it
 ```
 
@@ -114,7 +114,7 @@ php artisan config:clear
 ## Outils recommandés
 
 - [Visual Studio Code](https://code.visualstudio.com/) pour éditer le code
-- [Laravel Valet](https://laravel.com/docs/8.x/valet) pour un environnement de développement Laravel léger sur macOS
+- [Laravel](https://laravel.com/docs/8.x/) pour un environnement de développement Laravel léger
 - [phpMyAdmin](https://www.phpmyadmin.net/) pour gérer votre base de données MySQL
 
 ## Contribution
